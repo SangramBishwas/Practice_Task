@@ -3,6 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+#btn{
+   background-color: #793cb2;
+   color: #fff;
+   font-size: 1em;
+   margin: 0 15px;
+   padding: 5px;
+   left: 0;
+   cursor: pointer;
+  }
 .parent{
  margin: 50px 250px;
  background-image: url('photo-13.jpg') ;
